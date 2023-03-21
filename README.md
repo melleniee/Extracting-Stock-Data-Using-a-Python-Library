@@ -1,4 +1,3 @@
-# Extracting-Stock-Data-Using-a-Python-Library
-Using a Python Library to obtain financial data<br />
-Extracting historical stock data using yfinance<br />
-Companies Analyzed: Apple (AAPL) and AMD (AMD)
+# Extracting Financial and Stock Data Using a Python Library
+This project utilizes the Python Library yfinance to obtain financial data<br />
+Companies Analyzed include Apple (AAPL) and AMD (AMD).
